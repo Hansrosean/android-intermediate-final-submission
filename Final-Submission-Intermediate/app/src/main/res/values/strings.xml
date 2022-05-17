@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="your_email">Your email …</string>
+    <string name="your_password">Your password …</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="logout">Logout</string>
+    <string name="greeting">Hi %1$s,</string>
+
+    <string name="title_signup_page">Fill your data</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="email_error">Whoops, somebody already has your email, \nPlease create new email</string>
+    <string name="password">Password</string>
+    <string name="password_error">Minimum character is 6</string>
+    <string name="required">Required</string>
+    <string name="dateFormat">Uploaded on %1$s</string>
+    <string name="upload">Upload</string>
+    <string name="photo">Take a photo</string>
+    <string name="gallery">Add from gallery</string>
+    <string name="description">What\'s going on?</string>
+    <string name="permission_fail">Permission failed, some features may not work.</string>
+    <string name="upload_failed">Upload failed, try again.</string>
+    <string name="description_null">Add some description before upload.</string>
+    <string name="photo_null">Add a photo first before upload.</string>
+    <string name="login_textview">STORY APP</string>
+    <string name="retry">Try again</string>
+    <string name="maps">maps</string>
+    <string name="register_success">Register success</string>
+    <string name="register_success_description">Proceed to login?</string>
+    <string name="error_data_login">Email or password is incorrect</string>
+    <string name="login_success">Login success</string>
+    <string name="login_success_description">Proceed to homepage?</string>
+</resources>

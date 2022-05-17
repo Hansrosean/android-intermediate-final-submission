@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="sign_in">Masuk</string>
+    <string name="your_email">Email kamu …</string>
+    <string name="your_password">Password kamu …</string>
+    <string name="dont_have_account">Tidak punya akun?</string>
+    <string name="login">Login</string>
+    <string name="sign_up"><u>Daftar</u></string>
+    <string name="logout">Logout</string>
+    <string name="greeting">Hai %1$s,</string>
+
+    <string name="title_signup_page">Isi data diri kamu</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Masukkan email kamu</string>
+    <string name="email_error">Wah, seseorang telah memiliki email kamu, \nMasukkan email terbaru</string>
+    <string name="password">Password</string>
+    <string name="password_error">Minimal 6 karakter password</string>
+    <string name="required">Harus diisi</string>
+    <string name="dateFormat">Diunggah pada %1$s</string>
+    <string name="upload">Unggah</string>
+    <string name="photo">Buka kamera</string>
+    <string name="gallery">Buka galeri</string>
+    <string name="description">Apa yang sedang terjadi?</string>
+    <string name="permission_fail">Perizinan gagal, beberapa fitur mungkin tidak bekerja.</string>
+    <string name="upload_failed">Upload gagal, silakan coba lagi.</string>
+    <string name="description_null">Tambahkan deskripsi sebelum mengunggah.</string>
+    <string name="photo_null">Tambahkan foto sebelum mengunggah.</string>
+    <string name="login_textview">STORY APP</string>
+    <string name="retry">Coba lagi</string>
+    <string name="maps">maps</string>
+    <string name="register_success">Registrasi success</string>
+    <string name="register_success_description">Lanjutkan ke login?</string>
+    <string name="error_data_login">Email atau password salah</string>
+    <string name="login_success">Login sukses</string>
+    <string name="login_success_description">Lanjut ke halaman utama?</string>
+</resources>
